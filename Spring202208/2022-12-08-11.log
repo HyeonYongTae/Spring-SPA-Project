@@ -1,0 +1,16 @@
+2022-12-08(목) 11:21:14:686 >>> select
+login pass : 2022-12-08(목) 11:21:14:699 >>> insert... end of around aop . . . . .
+login pass : 2022-12-08(목) 11:21:14:701 >>> update... end of around aop . . . . .
+login pass : 2022-12-08(목) 11:21:14:703 >>> delete... end of around aop . . . . .
+2022-12-08(목) 11:23:37:751 >>> select
+login pass : 2022-12-08(목) 11:23:37:767 >>> insert... end of around aop . . . . .
+login pass : 2022-12-08(목) 11:23:37:770 >>> update... end of around aop . . . . .
+login pass : 2022-12-08(목) 11:23:37:772 >>> delete... end of around aop . . . . .
+2022-12-08(목) 11:27:28:868 >>> select
+login pass : 2022-12-08(목) 11:27:28:882 >>> insert... end of around aop . . . . .
+login pass : 2022-12-08(목) 11:27:28:883 >>> update... end of around aop . . . . .
+login pass : 2022-12-08(목) 11:27:28:885 >>> delete... end of around aop . . . . .
+2022-12-08(목) 11:28:09:719 >>> select
+login pass : 2022-12-08(목) 11:28:09:731 >>> insert... end of around aop . . . . .
+login pass : 2022-12-08(목) 11:28:09:733 >>> update... end of around aop . . . . .
+login pass : 2022-12-08(목) 11:28:09:735 >>> delete... end of around aop . . . . .
